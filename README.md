@@ -7,6 +7,7 @@
 ## Blogs
 
 - [区块链安全专题智库](https://bcsec.org/)
+- [PeckShield Inc. - Blog](https://www.peckshield.com/blog.html)
 - [Security Archives - Ethereum Blog](https://blog.ethereum.org/category/security/)
 - [Blockchain-sec](https://blockchain-sec.com/)
 - [猎豹移动区块链中心](https://www.cmcmbc.com/zh-cn/blog/)
@@ -43,7 +44,7 @@
 - [Stackexchange ethereum security](https://ethereum.stackexchange.com/questions/tagged/security)
 - [Stackexchange bitcoin security](https://bitcoin.stackexchange.com/questions/tagged/security)
 
-## Paper
+## Papers
 - [区块链安全分析报告](https://bcsec.org/blockchainsecurity_v1.pdf)
 - [区块链安全生存指南](https://chaitin.cn/cn/download/blockchain_security_guide_20180507.pdf)
 - [Hacking Blockchain](https://www.rsaconference.com/writable/presentations/file_upload/fon4-t11_hacking_blockchain.pdf)
@@ -53,7 +54,7 @@
 - [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377.pdf)
 - [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](http://cs-people.bu.edu/heilman/eclipse/)
 
-## Report
+## Reports
 - [Audit report of iohk’s etc wallet](https://research.kudelskisecurity.com/2018/01/26/audit-report-of-iohks-etc-wallet/)
 - [Audit report of the waves platform](https://research.kudelskisecurity.com/2017/10/10/audit-report-of-the-waves-platform/)
 
