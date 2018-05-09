@@ -6,12 +6,12 @@
 
 ## Blogs
 
+- [区块链安全专题智库](https://bcsec.org/)
 - [Security Archives - Ethereum Blog](https://blog.ethereum.org/category/security/)
 - [Blockchain-sec](https://blockchain-sec.com/)
 - [猎豹移动区块链中心](https://www.cmcmbc.com/zh-cn/blog/)
 - [隐形人真忙-区块链安全](https://blog.csdn.net/u011721501/article/category/7483965)
 - [Trailofbits-blockchain](https://blog.trailofbits.com/category/blockchain/)
-
 
 
 ## Events
@@ -44,6 +44,8 @@
 - [Stackexchange bitcoin security](https://bitcoin.stackexchange.com/questions/tagged/security)
 
 ## Paper
+- [区块链安全分析报告](https://bcsec.org/blockchainsecurity_v1.pdf)
+- [区块链安全生存指南](https://chaitin.cn/cn/download/blockchain_security_guide_20180507.pdf)
 - [Hacking Blockchain](https://www.rsaconference.com/writable/presentations/file_upload/fon4-t11_hacking_blockchain.pdf)
 - [BGP hijacking](https://en.wikipedia.org/wiki/BGP_hijacking)
 - [Safe-wallet-white-paper](https://www.cmcmbc.com/zh-cn/blog/research/2018-04-18/79.html)
