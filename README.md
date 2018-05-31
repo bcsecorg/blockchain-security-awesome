@@ -7,6 +7,7 @@
 ## Blogs
 
 - [区块链安全专题智库](https://bcsec.org/)
+- [Zeppelin Blog](https://blog.zeppelin.solutions/)
 - [PeckShield Inc. - Blog](https://www.peckshield.com/blog.html)
 - [Security Archives - Ethereum Blog](https://blog.ethereum.org/category/security/)
 - [Blockchain-sec](https://blockchain-sec.com/)
